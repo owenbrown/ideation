@@ -53,6 +53,11 @@ Website is generated.
 - There's no moat. SquareSpace could easily release an ultra-cheap plan.
 
 ## 2020-02-07
+We tried [Leia.ai](https://heyleia.com) and were really impressed. They claim to us ML and had a typeform approach, but the final product was a little janky.
+
+[Adobe spark](https://spark.adobe.com) was really impressive and free, but you can't use your domain and the resulting pages domain have a proper URL structure.
+
+### Decision to pass
 Passed on this for the following reasons:
 - There are awesome free options available online for building a website (though you don't get your domain. Examples include Adobe Spark)
 - There are awesome free options available on line for building a website that do include a domain (GitHub Pages)
