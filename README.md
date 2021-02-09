@@ -1,2 +1,2 @@
 # ideation
-Way to ideate!
+Website: [https://owenbrown.github.io/ideation/](https://owenbrown.github.io/ideation/)
