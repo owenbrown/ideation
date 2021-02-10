@@ -28,4 +28,4 @@ You can use the [editor on GitHub](https://github.com/owenbrown/ideation/edit/gh
 
 ## Passed-on ideas
 - [Website builder](./website-builder)
-- [Passport Photos Builder)[./passport-photo.md]
+- [Passport Photos Builder](./passport-photo.md]

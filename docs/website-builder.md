@@ -7,6 +7,7 @@ Create a website hosting platform with the following features:
 - low annual fee ($50 or less for as many domains as you want)
 - Easy to export content (probably Markdown files on the backend).
 
+The user experience is very similar to https://about.me
 ### Advantages over competing products
 - Less exensive
 - Easier to set up
@@ -40,9 +41,10 @@ Website is generated.
 - Presumably, since data came in structured, you can nicely-format the data.
 - Pauline would use it if minimalistic templates & super simple interface to spin a new one up. Still interested in the idea of easily hide/show parts of the page without deleting anything
 ### Competitors
-- Wix / SquareSpace / Forestry charge too much
+- about.me - really, nice, and at a fair price: free or $7 a month if you want your own domain.
+- Wix / SquareSpace / Forestry - charge too much
 - Wordpress is way to complex
-- GitHub.com is intimidating (not hard, there's a difference).
+- GitHub.com is intimidating and the resulting webpages aren't very pretty.
 - Notion is ugly
 ### Reasons to pursue
 - We (Pauline, Arun, Owen) are each attracted to simple, pretty, and fast experiences.
