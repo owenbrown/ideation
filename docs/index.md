@@ -1,7 +1,10 @@
 # Ideation
 The purpose of this page is to track startup and / or attractive small business ideas.
 
-### [Training for sales people](/corporate-training.md)
+### Better product specifications software
+See [Better Spec](./better-spec)
+
+### [Training for sales people](./corporate-training)
 Next steps: Pauline examines the competition while looking for a solution for OnQ.
 
 ### Career services powered by ML
