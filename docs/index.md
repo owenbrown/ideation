@@ -18,6 +18,8 @@ Next steps: Pauline examines the competition while looking for a solution for On
 ### Store website browsing data into a database
 See [Beam](https://techcrunch.com/2021/02/03/beam-raises-9-5-million-to-build-a-web-browser-that-collects-ideas/)
 
+### [Contact backup](./contact-backup)
+
 ## To edit this page
 You can use the [editor on GitHub](https://github.com/owenbrown/ideation/edit/gh-pages/index.md).
 
