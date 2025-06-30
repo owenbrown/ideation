@@ -1,4 +1,4 @@
-# Better spec
+# Better spec2
 Product specs are overwhelming for engineers.
 
 ## Current process
