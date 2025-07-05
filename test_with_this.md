@@ -1,9 +1,3 @@
 - This is the first line.
 - This is the second line.
-
-SUCCESSFUL APPEND
-SUCCESSFUL APPEND
-SUCCESSFUL APPEND
-SUCCESSFUL APPEND
-
-SUCCESSFUL APPEND
+- This is the third line
