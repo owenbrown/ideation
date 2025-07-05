@@ -2,3 +2,4 @@
 - This is the second line.
 
 SUCCESSFUL APPEND
+SUCCESSFUL APPEND
